@@ -1,0 +1,64 @@
+!Pre-Hardmode
+!!Basic resource gathering (early)
+-Add a new common enemy who drops Ancient Dew, a material which infuses swords with a sword beam ability, ranged with a pulse bow effect (but slower and not bouncy) , spells with a neat projectile, summoner with an extra summon and throwing with an extra projectile(only pre-hm)
+!!Post-EoC (less early)
+-New monster spawns at night: Overlooker, has a low chance to drop demonite/crimtane
+!!Post-EoW (mid)
+-New monster spawns in the corruption/crimson: Worm Part and Scarer, have a high chance to drop demonite/crimtane and a low one to drop scales and tissues
+!!Post-Skeletron (late)
+-New monster spawns in the desert: Thirsty Bones, has a low chance of dropping Bonite, all dungeon mobs can drop bonite now
+--Bonite is used to make summoner armor and a skeleton minion
+
+!Hardmode
+--All above mobs get their spawn rate reduced
+!!Post-WoF (early hardmode)
+-2 new mobs spawn in the underworld: The Starving, and The Drinker: The starving gets mages/summoners suited up, while the drinkers get melee, rangers and throwing geared up
+!!Post-Mech (mid)
+-New mob spawns dependant on each mech-boss kill
+--The Twins kill: The Master and the Servant: Two eyes who have a veeery low chance of dropping souls of sight
+--The Destroyer kill: The Metallic Probe: A probe with a veeery low drop chance for souls of might
+--Skeletron Prime: Sir Skeletron: a mini skeletron head with top hat who has a veeery low drop chace for souls of fright
+-Souls of fright and might have more uses
+!!Post-Plantera (late)
+-Secret boss: Chakravartin, The Creator
+--Summoned with Mantra: Needs all souls + the temple key (won't use it up)
+--Superior boss than you, will always scale his numbers higher than yours and CAN 1shot you
+--When you beat the Celestial Eater, Chakravatrin will finally scale down to a level where you are able to beat him.
+
+!!Post-Moon Lord (endgame)
+-Spider based "final" boss, Celestial Eater: based off of Gasteracantha cancriformis
+--Drops "Celestial Essence": Drops which are made into endgame weapons and armor
+---TODO: WEAPON IDEAS
+--Drops some weapons herself
+---TODO: WEAPON IDEAS
+--Has one certain drop: The Gravity Gun: Move any entity (except bosses)
+--Expert mode treasure bag: The Unlocker: right click and put any item in, this item now has it's potential unlocked
+---Potential unlocked items deal more damage etc. and level up over time, until the damage caps at 400 dmg
+
+!!Post-Celestial Eater (late endgame)
+-Greyscale and Starcaves enter the world
+--Greyscale: Magical realm that was locked away for containing the most
+dark atmosphere of any biome and almost destroying the world (backstory blah blah)
+---New ore: Obscurae ore, used to make cool items
+----TODO: WEAPON IDEAS
+--Starcaves: Mystical realm from space that supposedly counters the effects of the Greyscale
+
+
+//MAYBE, IF I UNDERSTAND LIGHTING SHADERS
+-1 new pillar: Neutron Pillar, a greenish planet in the background which pulsates
+--Focuses on throwing weapons
+---Neutron Glove: Infinite, throws particles wich pulse on hit
+---Star Thrower: Boomerang, very quick velocity, stacks to 10: stays in the air for a short
+period of time and emits slight AoE pulses
+
+!Developer
+-Developer armor: Nopezal Armor
+--Greaves: *3 speed, magic damage * 1.25, 20 defense
+--Plate: *5 health regen, *1.50 magic damage, 26 defense
+--Helmet: *3 crit chance, *1.66 magic damage, 22 defense
+--Set bonus: No mana usage, *2 magic damage, quicker usetime, each hit increases magic damage
+
+-Developer weapon: Dragon Orb Staff
+--Shoots very op long usetime magnet sphere wich circles around enemies, dealing ~600dmg per hit
+
+--Developer Unlocker: Only affects the Dragon Orb Staff, unlocks its potential, caps it to 1500 dmg and increased speed

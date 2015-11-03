@@ -1,0 +1,3 @@
+C:\Users\Willem\Documents\GitHub\Prism\Terrastrial\Terrastrial\bin\Debug\Terrastrial.exe.config
+C:\Users\Willem\Downloads\Terrastrial\Terrastrial\bin\Debug\Terrastrial.exe.config
+C:\Users\Willem\Documents\GitHub\Terrastrial\Terrastrial\bin\Debug\Terrastrial.exe.config
