@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD578F07-1D2B-4D59-990F-2A3116700346}</ProjectGuid>
+    <ProjectGuid>{80D3B720-26F5-47E8-9854-69C6888DD5DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Terrastrial</RootNamespace>

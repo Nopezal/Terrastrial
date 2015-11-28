@@ -26,8 +26,8 @@ namespace Terrastrial
         public override void PostUpdate()
         {
             if (GetKey(Keys.NumPad9, KeyState.Down))
-                foreach(var kvp in Mod.DevArmor)
-                Item.NewItem((int)Main.player[Main.myPlayer].position.X, (int)Main.player[Main.myPlayer].position.Y, 1, 1, kvp.Key);
+                foreach(var armor in Mod.DevArmor)
+                Item.NewItem((int)Main.player[Main.myPlayer].position.X, (int)Main.player[Main.myPlayer].position.Y, 1, 1, armor);
             prevKeyState = Main.keyState;
         }
         public override void UpdateMusic(Ref<BgmEntry> current)
